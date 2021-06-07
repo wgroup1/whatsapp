@@ -1,39 +1,33 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- 	created with www.mysitemapgenerator.com	 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-	<loc>https://rp.niviiro.com/</loc>
-	<lastmod>2021-06-02T09:25:19+01:00</lastmod>
-	<priority>1.0</priority>
+<loc>https://wgroup.link/</loc>
+<lastmod>2021-06-07T14:26:23+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://rp.niviiro.com/about-us.html</loc>
-	<lastmod>2021-06-02T09:25:19+01:00</lastmod>
-	<priority>1.0</priority>
+<loc>https://wgroup.link/dmca.html</loc>
+<lastmod>2021-06-07T14:26:23+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://rp.niviiro.com/contact-us.html</loc>
-	<lastmod>2021-06-02T09:25:22+01:00</lastmod>
-	<priority>1.0</priority>
+<loc>https://wgroup.link/sitemap.html</loc>
+<lastmod>2021-06-07T14:26:26+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://rp.niviiro.com/Privacy-Policy.html</loc>
-	<lastmod>2021-06-02T09:25:22+01:00</lastmod>
-	<priority>1.0</priority>
+<loc>https://wgroup.link/contact-us.html</loc>
+<lastmod>2021-06-07T14:26:26+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://rp.niviiro.com/sitemap.html</loc>
-	<lastmod>2021-06-02T09:25:22+01:00</lastmod>
-	<priority>1.0</priority>
+<loc>https://wgroup.link/about-us.html</loc>
+<lastmod>2021-06-07T14:26:26+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://rp.niviiro.com/dmca.html</loc>
-	<lastmod>2021-06-02T09:25:22+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://rp.niviiro.com/5-things-about-sambhar-lake.html</loc>
-	<lastmod>2021-06-02T09:25:22+01:00</lastmod>
-	<priority>1.0</priority>
+<loc>https://wgroup.link/Privacy-Policy.html</loc>
+<lastmod>2021-06-07T14:26:26+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 </urlset>
