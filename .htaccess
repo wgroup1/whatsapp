@@ -1,0 +1,6 @@
+//Rewrite to www
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^wgroup.link[nc]
+RewriteRule ^(.*)$ https://www.wgroup.link/$1 [r=301,nc]
+ 
