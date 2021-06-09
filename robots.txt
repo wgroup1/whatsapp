@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://wgroup.link/sitemap.xml
+Image-Sitemap: https://wgroup.link/image-sitemap.xml
