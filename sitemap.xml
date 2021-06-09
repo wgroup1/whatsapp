@@ -3,6 +3,7 @@
 <url>
 <loc>https://wgroup.link/</loc>
 <lastmod>2021-06-08T16:43:10+01:00</lastmod>
+<changefreq>daily</changefreq>   
 <priority>1.0</priority>
 </url>
 <url>
@@ -13,6 +14,7 @@
 <url>
 <loc>https://wgroup.link/sitemap.html</loc>
 <lastmod>2021-06-08T16:43:13+01:00</lastmod>
+<changefreq>daily</changefreq>   
 <priority>0.9</priority>
 </url>
 <url>
