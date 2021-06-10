@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://wgroup.link/sitemap.xml
+Sitemap: https://wgroup.link/image-sitemap.xml
+Sitemap: https://wgroup.link/post-sitemap.xml
